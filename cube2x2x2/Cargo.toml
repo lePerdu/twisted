@@ -1,0 +1,9 @@
+[package]
+name = "cube2x2x2"
+version = "0.1.0"
+authors = ["lePerdu <zdpeltzer@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+lazy_static = "1.4"
+twisted = { path = "..", version = "0.1" }

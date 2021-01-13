@@ -1,0 +1,12 @@
+target/
+debug/
+
+# Ignore Cargo.lock for the `twisted` library, but not for the executables
+/Cargo.lock
+
+# Editor settings/backups
+.vscode/
+*~
+
+# Mac OS
+.DS_Store
